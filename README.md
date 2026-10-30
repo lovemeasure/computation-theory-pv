@@ -20,6 +20,7 @@ BGMなどの外部素材は、ソースコードのライセンスには含ま�
 ## クレジット
 
 - BGM："LOGIC MAGIC" Prod.Ucchii0 — [配布元](https://ucchii0.booth.pm/items/5228076)
+- 効果音：OtoLogic — [配布元](https://otologic.jp/free/se/pc-keyboard01.html)
 - 参考：Michael Sipser『計算理論の基礎』（共立出版）
 - 制作：Claude Opus 5.5 & 愛計
 
